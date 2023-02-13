@@ -29,7 +29,7 @@ a.	The system will be built with either a web app based  system or regular  app 
 ### d) user classes and other involved personnel;
   a.	Different users should have different access and different levels of authority within the system. 
   b.	User include but are not limited to:
-<ol>
+<ul>
 <li>i.	Executive Director</li>
 <li>ii.	Senior Director of Operations</li>
 <li>iii.	Senior Director of Development & Communications</li>
@@ -45,7 +45,7 @@ a.	The system will be built with either a web app based  system or regular  app 
 <li>xiii.	STEMLab Educator</li>
 <li>xiv.	Volunteer Historian</li>
 <li>xv.	FabLab Manager</li>
-</ol>  
+</ul>  
 
 ### e) support environment.
 
