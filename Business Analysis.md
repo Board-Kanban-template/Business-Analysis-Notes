@@ -1,7 +1,21 @@
 # Introduction
 ## Business purpose
+Business purpose –  IMAG History & Science Center is a museum located in Fort Myers, FL with the original goal of allowing people of all ages to explore and discover in the areas of physical, life, and aquatic sciences along with the rich history of Southwest Florida.  Most recently the history and science center has been transformed into an institution dedicated to learning through hands-on activities. As Imag continues to improve its processes and services, one area of concern for the History and Science center relates to its collection and retention of water chemistry documentation.  The current process for the documentation of water quality samples necessitates physical encoding of water chemistry on a paper sheet. The new proposed system calls for the creation of an online fully digital Aquarium Dashboard that will allow users of the new system to digitally upload water quality samples, recall historical data, analyze historical trends, and view graphs that can contribute to hands on learning. 
 ## Business scope
+1. IMAG History & Science Center
+2. Range of business activities: 
+* Living Lab 
+* USS Mohawk CGC Aquarium
+* SEA-to-SEE Touch Tank
+* Lionfish: Underwater Invaders Aquarium 
+* Outdoor Exhibits
+* Water Works
+* Fisheye Lagoon 
+* AQUAPONICS
+3. The proposed system is to be developed as a web application that can be accessed online via phone, laptop, or apple tablet. The new water chemistry dashboard should provide operational level system support. The functional support will include but is not limited to gathering user input data, storing user input data into a database, processing user data, and producing an output in the form of a graph or chart.   
+
 ## Overview
+
 ## Definitions 
 ## Major stakeholders 
 # References
