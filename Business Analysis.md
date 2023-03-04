@@ -18,10 +18,28 @@ Business purpose –  IMAG History & Science Center is a museum located in Fort 
 
 ## Definitions 
 ## Major stakeholders 
+1. Users:
+* Aquatics caretaker - The aquatics caretakers specialize in taking care of a variety of fresh water and saltwater animals. Their specific roles include but is not limited to water testing.
+* Animal Caretakers – The animal caretakers specific roles involve but is not limited to care for the animals and also cleaning cages. Occasionally animal caretakers may take on roles of an aquatic caretaker and may be expected to test for water quality.
+* Volunteers – Volunteers may work in various positions and may help out with duties of caretakers. Volunteers may be expected to test water quality or input water quality information into the database.
+* Customers – These users will view the Dashboard at the aquarium. These users should be viewing the dashboard in an informative and educational way.
+2. Customer:
+* Managing Director – The managing director has oversight and fully authority over the commission and details of the software. The managing director may enter water quality information and should have fully authority to commission changes for the software as he/she deems necessary.
+3. Regulators:
+* Florida Fish and wildlife ( FWC) – May request historical water quality information to verify proper care of aquatic animals Software Engineers :
+FGCU software engineering students – Commissioned to develop the software for use at the Imag Aquarium. Theses users should have full authority to make changes to software in accordance with the directives from the Managing Director.
 # References
 # Business management requirements
 ## Business environment
+1. Internal Environment factors to be taken into consideration would include but is not limited to malicious actors.
+* These actors could include disgruntled employees who may wish to change or delete water quality history.
+* Example – prior employees who still have access to the application and may seek to change, alter, or lockout users.
+2. Volunteers who erroneously enter false information and may alter the historical water quality data.
+* External Factors –
+* Hackers who seek to exploit and crash the website through unknown vulnerabilities.
+* Hackers who access a user’s account with a compromised password or an inactive account that has not been closed out.
 ## Mission, goals, and objectives
+1. Mission statement - The IMAG mission is to use the lenses of history and science to help people understand and explore the rich culture and habitat of Southwest Florida through science, technology, engineering, and mathematics, history, culture, and art. Imag’s goal is to create a water chemistry dashboard (technology) to help people understand the science of water chemistry, aquatics, and the aquarium.
 ## Business model
 ## Information environment
 # Business operational requirements
