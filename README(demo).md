@@ -1,10 +1,13 @@
 In VSCODE, install **'live server'** extension, and goto the settings for it. Open the json file names 'settings.json' and insert the following code into it:
 
 
-"liveServer.settings.host": "localhost",
+`"liveServer.settings.host": "localhost",
+
 "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+
 "liveServer.settings.ChromeDebuggingAttachment": false,
-"liveServer.settings.port": 8080
+
+"liveServer.settings.port": 8080`
 
 Note - you may need to change your port number to the correct one, but this should work as the default.
 
